@@ -113,6 +113,7 @@ Wygenerowany graf pokazuje dwie wyraźne społeczności: jedną skupioną wokó�
 .
 ├── README.md
 ├── NLP_Peasants_alternative.ipynb        # notebook z pełnym kodem analizy
+├── graph_peasants.png                    # graf przedstawiający powiązania bohaterów
 └── generated_endings/                     # wygenerowane alternatywne zakończenia
 ```
 
